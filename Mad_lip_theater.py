@@ -1,28 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-import random
-
-
-# In[5]:
-
-
 print("\t\t\t\t***Welcome to Mad Lip Theater Simulator***")
-
-
-# In[8]:
-
 
 print("\n\nFill the following to generate a funny Santa-Elf Conversation: ")
 
 
-# In[ ]:
-
-
 print("\nType Of Dessert")
+
 dessert = input()
 print("\nSilly Word")
 silly = input()
@@ -64,9 +46,6 @@ print("\nHoliday")
 hol = input()
 
 
-# In[ ]:
-
-
 print('''
 ELF: Hi Santa.
 SANTA: Hello '''+dessert +'''
@@ -89,9 +68,6 @@ Oh what fun it is to ride
 In a one horse open ''' + trans + '''.
 ELF: Merry ''' + hol + ''' Santa!''')
 
-
-# In[ ]:
-
-
+#made by Kanit Mann
 
 
